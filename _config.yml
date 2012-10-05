@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://nsgc.github.com
+title: nsgc Octpress
+subtitle: 思い出した時に書くBlog
+author: nsgc
 simple_search: http://google.com/search
 description:
 
@@ -64,7 +64,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: nsgc
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
@@ -81,7 +81,7 @@ googleplus_user:
 googleplus_hidden: false
 
 # Pinboard
-pinboard_user:
+pinboard_user: nsgc
 pinboard_count: 3
 
 # Delicious
